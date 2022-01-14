@@ -1,0 +1,20 @@
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\bin\Debug\TASK_Lukhverchyk.exe.config
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\bin\Debug\TASK_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\bin\Debug\TASK_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.csproj.AssemblyReference.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.Form1.resources
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.Properties.Resources.resources
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.csproj.GenerateResource.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture8_Lukhverchyk\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.csproj.AssemblyReference.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.Form1.resources
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.Properties.Resources.resources
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.csproj.GenerateResource.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\obj\Debug\TASK_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\bin\Debug\TASK_Lukhverchyk.exe.config
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\bin\Debug\TASK_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\TEST\Lecture8_Lukhverchyk (ТЕСТ)\Expressions_Lukhverchyk\TASK_Lukhverchyk\bin\Debug\TASK_Lukhverchyk.pdb

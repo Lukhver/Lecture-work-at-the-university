@@ -1,0 +1,7 @@
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\bin\Debug\TASKS_Lukhverchyk_2.0.exe.config
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\bin\Debug\TASKS_Lukhverchyk_2.0.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\bin\Debug\TASKS_Lukhverchyk_2.0.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\obj\Debug\TASKS_Lukhverchyk_2.0.csproj.AssemblyReference.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\obj\Debug\TASKS_Lukhverchyk_2.0.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\obj\Debug\TASKS_Lukhverchyk_2.0.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lecture4_Lukhverchyk\TASKS_Lukhverchyk\Expressions_Lukhverchyk_2.0\TASKS_Lukhverchyk_2.0\obj\Debug\TASKS_Lukhverchyk_2.0.pdb
